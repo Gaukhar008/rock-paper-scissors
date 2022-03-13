@@ -4,4 +4,4 @@ by using the if statements, prompt and alert, and two functions.
 
 The game has 5 rounds and at the end reports the result and the winner of the game.
 
-The live version is here:  
+The live version is here: https://gaukhar008.github.io/rock-paper-scissors/ 
